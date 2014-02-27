@@ -1,7 +1,7 @@
 # Title: iFrame plugin for Jekyll/Octopress
 # Author: Wern Ancheta (@wern_ancheta | http://anchetawern.github.io/ | ancheta.wern@gmail.com)
 # Info: https://github.com/anchetaWern/octo-iframe
-# Description: Given a CodePen shortcode, outputs the CodePen embed code e.g. the iframe.
+# Description: adds the iframe liquid tag to jekyll/octopress.
 #
 # Syntax: {% iframe [class] [src] [width] [height] %}
 #
